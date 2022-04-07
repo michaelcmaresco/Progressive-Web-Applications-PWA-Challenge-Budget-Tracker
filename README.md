@@ -19,7 +19,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ### App Deployed to Heroku
 
-https://budget-tracker-pwa-app.herokuapp.com/
+https://budget-tracker-offline-capable.herokuapp.com/
 
 ### App Demo
 
